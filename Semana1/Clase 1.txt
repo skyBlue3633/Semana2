@@ -1,0 +1,6 @@
+
+Kiara Aguirre
+ivan.uribe@pucp.pe / pxiuribe@cibertec.edu.pe 
+
+Patron de arquitectura:
+Patron de diseño va a ser DAO 
